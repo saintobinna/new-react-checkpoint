@@ -7,7 +7,7 @@ const players = [
     nationality: "Argentina",
     jerseyNumber: 30,
     age: 34,
-    imageURL: "https://example.com/messi.jpg",
+    imageURL: "messi.jpg",
   },
   {
     name: "Cristiano Ronaldo",
@@ -15,7 +15,7 @@ const players = [
     nationality: "Portugal",
     jerseyNumber: 7,
     age: 37,
-    imageURL: "https://example.com/ronaldo.jpg",
+    imageURL: "ronaldo.jpg",
   },
   // Add more players here
 ];
